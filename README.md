@@ -1,5 +1,3 @@
-﻿# Atlasnow-Arquitetura
-
 # Guia de Instalação e Execução do Sistema AtlasNow
 
 ## 1. Configuração do Banco de Dados
@@ -48,4 +46,10 @@ Na pasta do **frontend**, execute:
 npm start
 ```
 
-Agora o sistema estará pronto para uso! 
+Agora o sistema estará pronto para uso! 🚀
+
+---
+## 4. Vídeo de Demonstração
+Assista ao vídeo de demonstração do sistema no link abaixo:
+[Vídeo de Demonstração](https://drive.google.com/file/d/1Jeih64wgrS9qohUVJaLJRT-Iy9NCTgLB/view?usp=sharing)
+
