@@ -25,7 +25,7 @@ CREATE TABLE FuncionarioExterno (
 
 -- Tabela de Atas
 CREATE TABLE Ata (
-  id INT AUTO_INCREMENT PRIMARY KEY,
+  idAta INT AUTO_INCREMENT PRIMARY KEY,
   topico VARCHAR(255) NOT NULL,
   data DATE NOT NULL,
   participantes VARCHAR(255) NOT NULL,
