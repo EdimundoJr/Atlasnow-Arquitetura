@@ -50,6 +50,6 @@ Agora o sistema estará pronto para uso! 🚀
 
 ---
 ## 4. Vídeo de Demonstração
-Assista ao vídeo de demonstração do sistema no link abaixo:
+Assista ao vídeo da instalação do protótipo do sistema no link abaixo:
 [Vídeo de Demonstração](https://drive.google.com/file/d/1Jeih64wgrS9qohUVJaLJRT-Iy9NCTgLB/view?usp=sharing)
 
